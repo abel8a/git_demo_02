@@ -1,8 +1,5 @@
-Web Tools
+gitWeb Tools
 
 Html
 Css
 javascript
-Jquery	
-Php	
-Mysql
